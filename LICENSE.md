@@ -1,5 +1,5 @@
 ## The DANG (Developers Against Nefarious packaGing) License
-##### v1.0 - 2022/07/30
+##### v0.1.0 - 2022/07/30
 
 #### Copyright (c) 20XX License H. Older
 
